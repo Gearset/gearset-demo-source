@@ -7,6 +7,10 @@
     <picklistValues>
         <picklist>AccountSource</picklist>
         <values>
+            <fullName>Gibson Guitar Type1</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Other</fullName>
             <default>false</default>
         </values>
