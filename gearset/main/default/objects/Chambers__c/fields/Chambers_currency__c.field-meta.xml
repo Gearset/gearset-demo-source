@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Chambers_currency__c</fullName>
+    <defaultValue>10000</defaultValue>
+    <description>Value of Chambers user</description>
+    <externalId>false</externalId>
+    <label>Chambers value</label>
+    <precision>4</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackTrending>false</trackTrending>
+    <type>Currency</type>
+</CustomField>
